@@ -1,4 +1,4 @@
-📢 Activity # 6 Instruction – Java Programming
+Activity # 6 Instruction – Java Programming
 
 Good day everyone! Please read and follow the instructions carefully.
 
